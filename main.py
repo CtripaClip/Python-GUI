@@ -1,7 +1,7 @@
 """
     Base code with CustomTkinter
     Code author - CtripaClip(Dzamal)
-    The last updtate - 23.05.2023
+    The last update - 23.05.2023
 
 """
 
